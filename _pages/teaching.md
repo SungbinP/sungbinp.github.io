@@ -11,7 +11,7 @@ nav_order: 4
 
 Multivariate Statistical Analysis in Public Policy (PUBP 804, Prof. John Earle)
 
-<a href="_includes/course_eval/PUBP 804 Spring 2024 Evaluation_SPark.pdf">Student Evaluation</a>
+<a href="_includes/course_eval/PUBP804_STATA_SPark_eval.pdf">Student Evaluation</a>
 
 <strong>Math Camp Instructor</strong> Fall 2023-Present
 
