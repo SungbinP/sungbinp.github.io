@@ -10,12 +10,12 @@ nav_order: 3
 <!-- _pages/publications.md -->
 <div class="publications">
 
-#Working Papers
+`Working Papers`
 {% bibliography --file workingpapers %}
 
-#Work-in-Progress
+`Work-in-Progress`
 
-#Peer-Reviewed Publications
+`Peer-Reviewed Publications`
 {% bibliography --file papers %}
 
 </div>
