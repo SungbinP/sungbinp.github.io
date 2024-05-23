@@ -18,4 +18,5 @@ Multivariate Statistical Analysis in Public Policy (PUBP 804, Prof. John Earle)
 Economics Math Workshop (PUBP 555)
 
 <strong>Teaching Assistant</strong> 2017-2019
+
 Introduction to Economic Principles, Special Topics in Economic Education, Understanding Korean Economy, Global Teaching Practicum (for Prof. Minsik Choi, Ewha Womans University)
