@@ -10,7 +10,7 @@ nav_order: 3
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% assign blog_description_size = Working Papers | size %}
+<strong><font size="+2">Working Papers</font></strong>
 {% bibliography --file workingpapers %}
 
 {% assign blog_description_size = Work-in-Progress | size %}
