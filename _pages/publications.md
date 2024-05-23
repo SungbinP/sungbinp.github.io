@@ -13,16 +13,12 @@ nav_order: 3
 <strong><font size="+2">Working Papers</font></strong>
 {% bibliography --file workingpapers %}
 
-p.big {
-  line-height: 1.8;
-}
+
 <hr style="height3px;border:none;color:#333;background-color:#333;">
 <strong><font size="+2">Peer-Reviewed Publications</font></strong>
 {% bibliography --file papers %}
 
-p.big {
-  line-height: 1.8;
-}
+
 <hr style="height:3px;border:none;color:#333;background-color:#333;">
 <strong><font size="+2">Work-in-Progress</font></strong>
 
