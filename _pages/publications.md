@@ -9,16 +9,20 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 <div class="publications">
-
 <strong><font size="+2">Working Papers</font></strong>
 {% bibliography --file workingpapers %}
-<hr class="rounded">
+</div>
+
+---
+
+<div class="publications">
 <strong><font size="+2">Peer-Reviewed Publications</font></strong>
 {% bibliography --file papers %}
-
-
-<hr class="rounded">
-<strong><font size="+2">Work-in-Progress</font></strong>
-
-
 </div>
+
+---
+
+<div class="publications">
+<strong><font size="+2">Work-in-Progress</font></strong>
+</div>
+
