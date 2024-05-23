@@ -11,6 +11,7 @@ nav_order: 3
 <div class="publications">
 
 ## Working Papers
+{% bibliography %}
 
 ## Work-in-Progress
 
