@@ -13,9 +13,9 @@ nav_order: 3
 <strong><font size="+2">Working Papers</font></strong>
 {% bibliography --file workingpapers %}
 
-{% assign blog_description_size = Work-in-Progress | size %}
-
-{% assign blog_description_size = Peer-Reviewed Publications | size %}
+<strong><font size="+2">Peer-Reviewed Publications</font></strong>
 {% bibliography --file papers %}
+
+<strong><font size="+2">Work-in-Progress</font></strong>
 
 </div>
