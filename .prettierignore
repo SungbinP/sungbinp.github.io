@@ -8,3 +8,5 @@ lighthouse_results/**
 _posts/2015-10-20-math.md
 _config.yml
 _pages/about.md
+_pages/cv.md
+_layouts/redirected.html
