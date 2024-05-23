@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Pronounciation of my name is "Sing a <strong>song</strong>" & "coffee <strong>bean</strong>" 
+subtitle: Pronounciation: "Sing a <strong>song</strong>" & "coffee <strong>bean</strong>" 
 
 profile:
   align: right
@@ -22,4 +22,4 @@ Welcome to my webpage!
 
 I am a PhD student in Public Policy in [Schar School of Policy and Government](https://schar.gmu.edu/), [George Mason University](https://www.gmu.edu/).
 
-My research interests are the ares of **Labor Economics**, **Health Economics**, **Public Policy**, and **Applied Microeconomics**. 
+My research interests are the ares of public Policy and applied microeconomics, focusing on labor economics and health Economics. 
