@@ -22,4 +22,4 @@ Welcome to my webpage!
 
 I am a PhD student in Public Policy in [Schar School of Policy and Government](https://schar.gmu.edu/), [George Mason University](https://www.gmu.edu/).
 
-My research interests are the ares of public Policy and applied microeconomics, focusing on labor economics and health Economics. 
+My research interests are the ares of public policy and applied microeconomics, focusing on labor economics and health Economics. 
