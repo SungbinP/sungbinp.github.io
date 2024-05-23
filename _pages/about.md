@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Pronounciation: "Sing a **song**" & "coffee **bean**" 
+subtitle: Pronounciation of my name is "Sing a **song**" & "coffee **bean**" 
 
 profile:
   align: right
