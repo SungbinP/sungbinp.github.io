@@ -11,11 +11,11 @@ nav_order: 3
 <div class="publications">
 
 ## Working Papers
-{% bibliography %}
+{% bibliography --file workingpapers %}
 
 ## Work-in-Progress
 
 ## Peer-Reviewed Publications
-{% bibliography %}
+{% bibliography --file papers %}
 
 </div>
