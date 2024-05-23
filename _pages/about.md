@@ -21,4 +21,5 @@ social: true # includes social icons at the bottom of the page
 Welcome to my webpage! 
 
 I am a PhD student in Public Policy in [Schar School of Policy and Government](https://schar.gmu.edu/), [George Mason University](https://www.gmu.edu/).
+
 My research interests are the ares of **Labor Economics**, **Health Economics**, **Public Policy**, and **Applied Microeconomics**. 
