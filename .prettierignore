@@ -10,5 +10,6 @@ _config.yml
 _pages/about.md
 _pages/publications.md
 _pages/teaching.md
+_pages/cv.md
 _layouts/redirected.liquid
 _sass/_themes.scss
