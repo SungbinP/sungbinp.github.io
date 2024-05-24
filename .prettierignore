@@ -15,3 +15,4 @@ _layouts/redirected.liquid
 _sass/_themes.scss
 _bibliography/papers.bib
 _bibliography/workingpapers.bib
+robots.txt
