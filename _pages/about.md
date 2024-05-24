@@ -23,3 +23,5 @@ Welcome to my webpage!
 I am a PhD student in Public Policy in [Schar School of Policy and Government](https://schar.gmu.edu/), [George Mason University](https://www.gmu.edu/).
 
 My research interests are the ares of public policy and applied microeconomics, focusing on labor economics and health economics. 
+
+My CV is available [here](https://www.dropbox.com/scl/fi/ylqdkzmr99r080k9sxrvq/Sungbin_Park_CV.pdf?rlkey=v9qnhhf145ermgf8b8e8i6qb4&dl=0).
