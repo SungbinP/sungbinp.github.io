@@ -7,5 +7,7 @@ assets/plotly/demo.html
 lighthouse_results/**
 _posts/2015-10-20-math.md
 _config.yml
-_pages/**
+_pages/about.md
+_pages/publications.md
+_pages/teaching.md
 _layouts/redirected.liquid
