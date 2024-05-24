@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /assets/pdf/Eval_PUBP804_STATA_SPark.pdf
+newtab: true
+permalink: /assets/pdf/Sungbin_Park_CV.pdf
 title: cv
 nav: true
 nav_order: 2
