@@ -4,4 +4,4 @@ permalink: /robots.txt
 User-agent: *
 Disallow:
 
-Sitemap: https://sungbinp.github.io/
+Sitemap: https://sungbinp.github.io/sitemap.xml
