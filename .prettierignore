@@ -13,3 +13,5 @@ _pages/teaching.md
 _pages/cv.md
 _layouts/redirected.liquid
 _sass/_themes.scss
+_bibliography/papers.bib
+_bibliography/workingpapers.bib
