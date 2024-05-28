@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sungbinp.github.io/
+Sitemap: [https://sungbinp.github.io/sitemap.xml](https://sungbinp.github.io/sitemap.xml)
