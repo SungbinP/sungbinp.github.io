@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Pronounciation is "Sing a <strong>song</strong>" & "coffee <strong>bean</strong>" 
+subtitle:  /sɔː ŋ-bin Park/ 박성빈
 
 profile:
   align: right
