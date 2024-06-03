@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  /sɔː ŋ-bin Park/ 박성빈
+subtitle:  /sɔː ŋ-bin/ 박성빈
 
 profile:
   align: right
