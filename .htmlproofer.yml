@@ -1,0 +1,4 @@
+file_ignore:
+  - _pages/projects.md
+  - assets/json/resume.json
+  - _posts
