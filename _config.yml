@@ -88,25 +88,25 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: false
-    permalink: /news/:path/
-  projects:
-    output: false
-    permalink: /projects/:path/
+#collections:
+#  news:
+#    defaults:
+#      layout: post
+#    output: false
+#    permalink: /news/:path/
+#  projects:
+#    output: false
+#    permalink: /projects/:path/
 
-announcements:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+#announcements:
+#  enabled: false
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#  limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+#  enabled: false
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -523,19 +523,19 @@ third_party_libraries:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+#jekyll_get_json:
+#  - data: resume
+#    json: assets/json/resume.json # it can also be an url
+#jsonresume:
+#  - basics
+#  - work
+#  - education
+#  - publications
+#  - projects
+#  - volunteer
+#  - awards
+#  - certificates
+#  - skills
+#  - languages
+#  - interests
+#  - references
