@@ -21,8 +21,8 @@ Economics Math Workshop (PUBP 555)
 
 <hr style="height:1.5px;border-width:1;color:gray;background-color:gray">
 
-<strong>Teaching Assistant</strong> 2017-2019
+<strong>Teaching Assistant</strong>
 
-Introduction to Econometrics (ECON 345, Prof. Thomas Stratmann)
+Introduction to Econometrics (ECON 345, Prof. Thomas Stratmann) Summer 2025
 
-Introduction to Economic Principles, Special Topics in Economic Education, Understanding Korean Economy, Global Teaching Practicum (for Prof. Minsik Choi, Ewha Womans University)
+Introduction to Economic Principles, Special Topics in Economic Education, Understanding Korean Economy, Global Teaching Practicum (for Prof. Minsik Choi, Ewha Womans University) 2017-2019
