@@ -25,6 +25,8 @@ Economics Math Workshop (PUBP 555)
 
 <strong>Teaching Assistant</strong>
 
+Labor Market Policies (PUBP 804, Prof. John Earle) Spring 2026
+
 Introduction to Econometrics (ECON 345, Prof. Thomas Stratmann) Summer 2025
 
 Introduction to Economic Principles, Special Topics in Economic Education, Understanding Korean Economy, Global Teaching Practicum (for Prof. Minsik Choi, Ewha Womans University) 2017-2019
