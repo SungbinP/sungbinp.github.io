@@ -16,6 +16,7 @@ Multivariate Statistical Analysis in Public Policy (PUBP 804, Prof. John Earle)
 <hr style="height:1.5px;border-width:1;color:gray;background-color:gray">
 
 <strong>Math Camp</strong> Fall 2023-Present
+
 [Student Evaluation](../assets/pdf/Student Evaluation-Spring 2026.pdf){:target="_blank"}
 
 Economics Math Workshop (PUBP 555)
