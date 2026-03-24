@@ -21,6 +21,6 @@ nav_order: 3
 
 <hr style="height:3px;border-width:1;color:gray;background-color:gray">
 
-<strong><font size="+2">Work-in-Progress</font></strong>
+<strong><font size="+2">Selected Work-in-Progress</font></strong>
 </div>
 
