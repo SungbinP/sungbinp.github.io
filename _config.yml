@@ -1,9 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-- name: Install ImageMagick
-  run: sudo apt-get update && sudo apt-get install -y imagemagick
-  
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Sungbin
 middle_name: 
