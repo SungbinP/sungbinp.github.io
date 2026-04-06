@@ -1,7 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-
+- name: Install ImageMagick
+  run: sudo apt-get update && sudo apt-get install -y imagemagick
+  
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Sungbin
 middle_name: 
@@ -211,8 +213,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Park]
+  first_name: [Sungbin]
 
   style: apa
   locale: en
