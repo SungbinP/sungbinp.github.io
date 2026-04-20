@@ -147,7 +147,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - assets/jupyter
+  - assets/jupyter/
+  - assets/jupyter/*.ipynb
 keep_files:
   - CNAME
   - .nojekyll
