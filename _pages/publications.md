@@ -35,15 +35,11 @@ nav_order: 3
 
 {% bibliography --file workingpapers %}
 
-<ul>
-  <li>&ldquo;The Racial Mortality Gap and Unemployment Insurance Cuts during the Covid Pandemic&rdquo; (with J.S. Earle). <em>Under review</em>.
-    <ul>
-      <li>Won the Best Poster Award at Society of Labor Economists (6th World Labor Conference) 2025.</li>
-    </ul>
-  </li>
-  <li>&ldquo;Adverse Shocks, Windfalls, and Innovation&rdquo; (with K.M. Lee, L. Dani, J.S. Earle, Y. Kim). <em>Under review</em>.</li>
-  <li>&ldquo;Opioid Prescription Duration Limit and Polysubstance Treatment Admissions in Publicly Funded Facilities&rdquo; (with C. Jeung, K.M. Lee).</li>
-</ul>
+{% bibliography --file wp_racial %}
+
+{% bibliography --file wp_innovation %}
+
+{% bibliography --file wp_opioid %}
 
 <hr style="height:3px;border-width:1;color:gray;background-color:gray">
 
