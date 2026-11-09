@@ -9,9 +9,12 @@ nav_order: 3
 
 <!-- _pages/publications.md -->
 <style>
-  .jmp .abstract.hidden { display: block !important; }
-  .jmp a.abstract.btn { display: none; }
-  .jmp h2.bibliography { display: none; }
+  .jmp .abstract.hidden { max-height: none !important; overflow: visible !important; border: none !important; font-size: 1rem; }
+  .jmp .abstract.hidden p { margin: 8px 0 0 0; }
+  .jmp a.abstract.btn,
+  .jmp h2.bibliography,
+  .jmp .author,
+  .jmp .periodical { display: none; }
 </style>
 <div class="publications jmp">
 <strong><font size="+2">Job Market Paper</font></strong>
