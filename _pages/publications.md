@@ -33,13 +33,13 @@ nav_order: 3
 
 <strong><font size="+2">Working Papers</font></strong>
 
+{% bibliography --file workingpapers %}
+
 {% bibliography --file wp_racial %}
 
 {% bibliography --file wp_innovation %}
 
 {% bibliography --file wp_opioid %}
-
-{% bibliography --file workingpapers %}
 
 <hr style="height:3px;border-width:1;color:gray;background-color:gray">
 
