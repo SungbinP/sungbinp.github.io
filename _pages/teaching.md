@@ -10,9 +10,10 @@ nav_order: 4
 <strong>Stata Session</strong>
 
 Multivariate Statistical Analysis in Public Policy (PUBP 804, Prof. John Earle) Spring 2024-2026 
-[Student Evaluation Spr 2024](../assets/pdf/Eval_PUBP804_STATA_SPark.pdf){:target="_blank"}
+[Student Evaluation Spr 2024](../assets/pdf/Student_Evaluation-PUBP804_Spring_2024.pdf){:target="_blank"} · [Spr 2026](../assets/pdf/Student_Evaluation-PUBP804_Spring_2026.pdf){:target="_blank"}
 
 Introductory Data Analysis for Poliy and Government (POGO 511, Prof. John Earle) Fall 2025
+[Student Evaluation Fall 2025](../assets/pdf/Student_Evaluation-POGO511_Fall_2025.pdf){:target="_blank"}
 
 <hr style="height:1.5px;border-width:1;color:gray;background-color:gray">
 
