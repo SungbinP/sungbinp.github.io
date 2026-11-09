@@ -19,7 +19,7 @@ Introductory Data Analysis for Poliy and Government (POGO 511, Prof. John Earle)
 <strong>Math Camp</strong> Fall 2023-Present
 
 Economics Math Workshop (PUBP 555) 
-[Student Evaluation Spr 2026](../assets/pdf/Student Evaluation-Spring 2026.pdf){:target="_blank"}
+[Student Evaluation Spr 2026](../assets/pdf/Student_Evaluation-Math_Camp_Spring_2026.pdf){:target="_blank"}
 
 <hr style="height:1.5px;border-width:1;color:gray;background-color:gray">
 
